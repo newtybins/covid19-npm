@@ -2,7 +2,7 @@
 
 # COVID-19
 
-> A basic NPM package to fetch data about the COVID-19 coronavirusoutbreak.
+> A basic NPM package to fetch data about the COVID-19 coronavirus outbreak.
 
 ## Installation
 
