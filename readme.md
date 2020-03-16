@@ -6,22 +6,22 @@
 
 ## Installation
 
-Installing `covid19` is easy. Just run the following command to add it to your NPM project...
+Installing `covid19-data` is easy. Just run the following command to add it to your NPM project...
 
 ```
-npm i covid19
+npm i covid19-data
 ```
 
 ## Usage
 
-There are no methods on the `covid19` package other than the default one. You can use the package to either get information about every country - including data about the world - or about a specific country.
+There are no methods on the `covid19-data` package other than the default one. You can use the package to either get information about every country - including data about the world - or about a specific country.
 
 The default method takes one parameter - `country`. If this parameter is not provided, the package returns an array full of data about every country, including the world (this is at index 0 of the array).
 
 ## Example
 
 ```js
-const covid = require('covid19');
+const covid = require('covid19-data');
 
 // get data about every country, including the world
 const everyCountry = await covid();
@@ -50,7 +50,7 @@ When the country has not been provided, it outputs an array of the schema. At in
 
 ## License
 
-`covid19` is licensed using the [MIT](LICENSE) license.
+`covid19-data` is licensed using the [MIT](LICENSE) license.
 
 **This means that you can...**
 

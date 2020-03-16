@@ -1,5 +1,5 @@
 {
-  "name": "covid19",
+  "name": "covid19-data",
   "version": "1.0.0",
   "description": "Fetches data about the coronavirus outbreak.",
   "main": "index.js",
