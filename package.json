@@ -1,0 +1,12 @@
+{
+  "name": "covid19",
+  "version": "1.0.0",
+  "description": "Fetches data about the coronavirus outbreak.",
+  "main": "index.js",
+  "repository": "https://github.com/itsnewt/COVID19-npm",
+  "author": "Newt",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
